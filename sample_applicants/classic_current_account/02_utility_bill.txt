@@ -1,0 +1,8 @@
+SYNTHETIC TEST DOCUMENT — NOT A REAL UTILITY BILL
+Document Type: Electricity Bill
+Provider: Northbridge Energy (fictional)
+Account Holder: Emily Jane Carter
+Service Address: 14 Sampleton Road, Leeds, LS1 4AB
+Billing Date: 2026-10-28
+Billing Period: 2026-10-01 to 2026-10-27
+Amount Due: GBP 84.20

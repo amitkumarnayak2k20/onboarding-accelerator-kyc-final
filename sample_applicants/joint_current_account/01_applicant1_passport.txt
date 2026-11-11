@@ -1,0 +1,7 @@
+SYNTHETIC TEST DOCUMENT — NOT A REAL PASSPORT
+Document Type: Passport
+Full Name: Daniel Thomas Reed
+Date of Birth: 1988-11-02
+Passport Number: 999000331
+Nationality: British
+Date of Expiry: 2030-08-15

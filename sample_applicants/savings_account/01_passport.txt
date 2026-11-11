@@ -1,0 +1,7 @@
+SYNTHETIC TEST DOCUMENT — NOT A REAL PASSPORT
+Document Type: Passport
+Full Name: Hannah Louise Morgan
+Date of Birth: 1985-12-03
+Passport Number: 999000551
+Nationality: British
+Date of Expiry: 2033-12-02

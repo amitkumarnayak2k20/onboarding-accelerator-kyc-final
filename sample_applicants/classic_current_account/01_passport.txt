@@ -1,0 +1,11 @@
+SYNTHETIC TEST DOCUMENT — NOT A REAL PASSPORT
+Document Type: Passport
+Issuing Country: United Kingdom (fictional sample)
+Surname: CARTER
+Given Names: EMILY JANE
+Full Name: Emily Jane Carter
+Date of Birth: 1991-06-14
+Passport Number: 999000111
+Nationality: British
+Date of Issue: 2021-04-10
+Date of Expiry: 2031-04-09

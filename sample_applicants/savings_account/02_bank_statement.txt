@@ -1,0 +1,8 @@
+SYNTHETIC TEST DOCUMENT — NOT A REAL BANK STATEMENT
+Document Type: Bank Statement
+Account Holder: Hannah Louise Morgan
+Address: 3 Example Crescent, Cardiff, CF10 1AA
+Statement Date: 2026-10-31
+Bank: Example Mutual (fictional)
+Existing Lloyds Current Account: Club Lloyds (self-declared; not externally verified)
+Selected Savings Product: Club Lloyds Monthly Saver (illustrative selection)

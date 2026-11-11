@@ -1,0 +1,11 @@
+SYNTHETIC TEST DOCUMENT — NOT A REAL PASSPORT
+Document Type: Passport
+Issuing Country: United Kingdom (fictional sample)
+Surname: PATEL
+Given Names: ARJUN DEV
+Full Name: Arjun Dev Patel
+Date of Birth: 2005-03-22
+Passport Number: 999000222
+Nationality: British
+Date of Issue: 2024-02-01
+Date of Expiry: 2034-01-31

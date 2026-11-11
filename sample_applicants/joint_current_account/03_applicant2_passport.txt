@@ -1,0 +1,7 @@
+SYNTHETIC TEST DOCUMENT — NOT A REAL PASSPORT
+Document Type: Passport
+Full Name: Sophie Amelia Reed
+Date of Birth: 1990-02-17
+Passport Number: 999000332
+Nationality: British
+Date of Expiry: 2032-02-16

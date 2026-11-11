@@ -1,0 +1,8 @@
+SYNTHETIC TEST DOCUMENT — NOT A REAL DRIVING LICENCE
+Document Type: UK Photo Driving Licence
+Full Name: Oliver James Brooks
+Date of Birth: 1979-08-09
+Licence Number: BROOK790809OJ9AB
+Address: 91 Demonstration Street, Nottingham, NG1 6AA
+Valid From: 2022-08-09
+Valid To: 2032-08-08

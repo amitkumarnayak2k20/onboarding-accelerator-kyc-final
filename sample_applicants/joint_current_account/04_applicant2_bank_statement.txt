@@ -1,0 +1,6 @@
+SYNTHETIC TEST DOCUMENT — NOT A REAL BANK STATEMENT
+Document Type: Bank Statement
+Account Holder: Sophie Amelia Reed
+Address: 6 Fictional Grove, Bristol, BS1 5XY
+Statement Date: 2026-10-31
+Bank: Example Mutual (fictional)

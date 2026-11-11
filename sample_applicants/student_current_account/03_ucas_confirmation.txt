@@ -1,0 +1,11 @@
+SYNTHETIC TEST DOCUMENT — NOT A REAL UCAS CONFIRMATION
+Document Type: Course Place Confirmation
+Student Name: Arjun Dev Patel
+Institution: Northshire University (fictional)
+Course: BSc Computer Science
+Study Mode: Full-time
+Course Duration: 3 years
+UCAS Code: A123
+Course Start Date: 2026-09-21
+Expected Course End Date: 2029-06-30
+UK Residence Duration Declared: 18 years

@@ -1,0 +1,6 @@
+account_type,public_reference_summary,demo_evidence_checklist,demo_notes
+Classic Current Account,Most current accounts 18+; identity checks; personal/contact/address and financial/employment information,Passport or photo driving licence; address evidence if requested; applicant details,Acceptance subject to bank assessment; no real eligibility decision
+Student Current Account,17+; UK resident 3+ years; eligible full-time course; four-digit UCAS code,Identity evidence; address evidence; UCAS/course confirmation,UCAS code is not verified against UCAS
+Joint Current Account,Both 18+ and UK residents; each has eligible existing Lloyds product; student/youth accounts cannot be joint,Each applicant's identity and address evidence; existing Lloyds product details,Verify each applicant separately; existing product self-declared in demo
+Basic Account,Public terms describe legally UK-resident customers who do not qualify for another Lloyds account,Identity evidence; address/residency information; applicant details,Do not decide qualification from demo data
+Savings Account,Product-specific terms; selected Club Lloyds/Reward/Advantage savings accounts require a qualifying current account,Identity evidence; address; selected product; relationship evidence where applicable,Check live product terms; relationship not externally verified

@@ -1,0 +1,5 @@
+SYNTHETIC TEST DOCUMENT — NOT A REAL UTILITY BILL
+Document Type: Water Bill
+Account Holder: Daniel Thomas Reed
+Service Address: 6 Fictional Grove, Bristol, BS1 5XY
+Issue Date: 2026-10-20
